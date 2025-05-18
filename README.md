@@ -58,7 +58,7 @@ battery.census.shodan.io
 blue.census.shodan.io
 blue2.census.shodan.io
 board.census.shodan.io
-www.border.census.shodan.io
+border.census.shodan.io
 buffet.census.shodan.io
 can.census.shodan.io
 dog.census.shodan.io
