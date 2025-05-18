@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration APIVersion="2000.1" IPS_CAT_VER="1">
+	<FQDNHost transactionid="">
+		<Name>census1.shodan.io</Name>
+		<FQDN>census1.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>census2.shodan.io</Name>
+		<FQDN>census2.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>census3.shodan.io</Name>
+		<FQDN>census3.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>census4.shodan.io</Name>
+		<FQDN>census4.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>census5.shodan.io</Name>
+		<FQDN>census5.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>census6.shodan.io</Name>
+		<FQDN>census6.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>census7.shodan.io</Name>
+		<FQDN>census7.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>census8.shodan.io</Name>
+		<FQDN>census8.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>census9.shodan.io</Name>
+		<FQDN>census9.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>census10.shodan.io</Name>
+		<FQDN>census10.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>census11.shodan.io</Name>
+		<FQDN>census11.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>census12.shodan.io</Name>
+		<FQDN>census12.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>atlantic.census.shodan.io</Name>
+		<FQDN>atlantic.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>pacific.census.shodan.io</Name>
+		<FQDN>pacific.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>rim.census.shodan.io</Name>
+		<FQDN>rim.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>m247.ro.shodan.io</Name>
+		<FQDN>m247.ro.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>pirate.census.shodan.io</Name>
+		<FQDN>pirate.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>ninja.census.shodan.io</Name>
+		<FQDN>ninja.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>border.census.shodan.io</Name>
+		<FQDN>border.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>burger.census.shodan.io</Name>
+		<FQDN>burger.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>cloud.census.shodan.io</Name>
+		<FQDN>cloud.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>dojo.census.shodan.io</Name>
+		<FQDN>dojo.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>flower.census.shodan.io</Name>
+		<FQDN>flower.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>goldfish.census.shodan.io</Name>
+		<FQDN>goldfish.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>hello.data.shodan.io</Name>
+		<FQDN>hello.data.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>house.census.shodan.io</Name>
+		<FQDN>house.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>inspire.census.shodan.io</Name>
+		<FQDN>inspire.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>mason.census.shodan.io</Name>
+		<FQDN>mason.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>ny.private.shodan.io</Name>
+		<FQDN>ny.private.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>scanner01.project25499.com</Name>
+		<FQDN>scanner01.project25499.com</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>scanner02.project25499.com</Name>
+		<FQDN>scanner02.project25499.com</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>scanner03.project25499.com</Name>
+		<FQDN>scanner03.project25499.com</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>scanner04.project25499.com</Name>
+		<FQDN>scanner04.project25499.com</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>scanner05.project25499.com</Name>
+		<FQDN>scanner05.project25499.com</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>sky.census.shodan.io</Name>
+		<FQDN>sky.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>turtle.census.shodan.io</Name>
+		<FQDN>turtle.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>*.shodan.io</Name>
+		<FQDN>*.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>account.shodan.io</Name>
+		<FQDN>account.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>api.shodan.io</Name>
+		<FQDN>api.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>beta.shodan.io</Name>
+		<FQDN>beta.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>blog.shodan.io</Name>
+		<FQDN>blog.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>*.census.shodan.io</Name>
+		<FQDN>*.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>aje.census.shodan.io</Name>
+		<FQDN>aje.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>atlantic2.census.shodan.io</Name>
+		<FQDN>atlantic2.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>battery.census.shodan.io</Name>
+		<FQDN>battery.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>blue.census.shodan.io</Name>
+		<FQDN>blue.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>blue2.census.shodan.io</Name>
+		<FQDN>blue2.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>board.census.shodan.io</Name>
+		<FQDN>board.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>border.census.shodan.io</Name>
+		<FQDN>border.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>buffet.census.shodan.io</Name>
+		<FQDN>buffet.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>can.census.shodan.io</Name>
+		<FQDN>can.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>dog.census.shodan.io</Name>
+		<FQDN>dog.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>draft.census.shodan.io</Name>
+		<FQDN>draft.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>eagle.census.shodan.io</Name>
+		<FQDN>eagle.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>editor.census.shodan.io</Name>
+		<FQDN>editor.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>einstein.census.shodan.io</Name>
+		<FQDN>einstein.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>elk.census.shodan.io</Name>
+		<FQDN>elk.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>fish.census.shodan.io</Name>
+		<FQDN>fish.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>floss.census.shodan.io</Name>
+		<FQDN>floss.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>green.census.shodan.io</Name>
+		<FQDN>green.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>guitar.census.shodan.io</Name>
+		<FQDN>guitar.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>hat.census.shodan.io</Name>
+		<FQDN>hat.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>kiwi.census.shodan.io</Name>
+		<FQDN>kiwi.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>malware-hunter.census.shodan.io</Name>
+		<FQDN>malware-hunter.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>mango.census.shodan.io</Name>
+		<FQDN>mango.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>mars.census.shodan.io</Name>
+		<FQDN>mars.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>pack.census.shodan.io</Name>
+		<FQDN>pack.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>purple.census.shodan.io</Name>
+		<FQDN>purple.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>red.census.shodan.io</Name>
+		<FQDN>red.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>red2.census.shodan.io</Name>
+		<FQDN>red2.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>red3.census.shodan.io</Name>
+		<FQDN>red3.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>refrigerator.census.shodan.io</Name>
+		<FQDN>refrigerator.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHost transactionid="">
+		<Name>research.census.shodan.io</Name>
+		<FQDN>research.census.shodan.io</FQDN>
+	</FQDNHost>
+	<FQDNHostGroup transactionid="">
+		<Name>scanner</Name>
+		<Description>Imported community.sophos.com/</Description>
+		<FQDNHostList>
+			<FQDNHost>census1.shodan.io</FQDNHost>
+			<FQDNHost>census2.shodan.io</FQDNHost>
+			<FQDNHost>census3.shodan.io</FQDNHost>
+			<FQDNHost>census4.shodan.io</FQDNHost>
+			<FQDNHost>census5.shodan.io</FQDNHost>
+			<FQDNHost>census6.shodan.io</FQDNHost>
+			<FQDNHost>census7.shodan.io</FQDNHost>
+			<FQDNHost>census8.shodan.io</FQDNHost>
+			<FQDNHost>census9.shodan.io</FQDNHost>
+			<FQDNHost>census10.shodan.io</FQDNHost>
+			<FQDNHost>census11.shodan.io</FQDNHost>
+			<FQDNHost>census12.shodan.io</FQDNHost>
+			<FQDNHost>atlantic.census.shodan.io</FQDNHost>
+			<FQDNHost>pacific.census.shodan.io</FQDNHost>
+			<FQDNHost>rim.census.shodan.io</FQDNHost>
+			<FQDNHost>m247.ro.shodan.io</FQDNHost>
+			<FQDNHost>pirate.census.shodan.io</FQDNHost>
+			<FQDNHost>ninja.census.shodan.io</FQDNHost>
+			<FQDNHost>border.census.shodan.io</FQDNHost>
+			<FQDNHost>burger.census.shodan.io</FQDNHost>
+			<FQDNHost>cloud.census.shodan.io</FQDNHost>
+			<FQDNHost>dojo.census.shodan.io</FQDNHost>
+			<FQDNHost>flower.census.shodan.io</FQDNHost>
+			<FQDNHost>goldfish.census.shodan.io</FQDNHost>
+			<FQDNHost>hello.data.shodan.io</FQDNHost>
+			<FQDNHost>house.census.shodan.io</FQDNHost>
+			<FQDNHost>inspire.census.shodan.io</FQDNHost>
+			<FQDNHost>mason.census.shodan.io</FQDNHost>
+			<FQDNHost>ny.private.shodan.io</FQDNHost>
+			<FQDNHost>scanner01.project25499.com</FQDNHost>
+			<FQDNHost>scanner02.project25499.com</FQDNHost>
+			<FQDNHost>scanner03.project25499.com</FQDNHost>
+			<FQDNHost>scanner04.project25499.com</FQDNHost>
+			<FQDNHost>scanner05.project25499.com</FQDNHost>
+			<FQDNHost>sky.census.shodan.io</FQDNHost>
+			<FQDNHost>turtle.census.shodan.io</FQDNHost>
+			<FQDNHost>*.shodan.io</FQDNHost>
+			<FQDNHost>account.shodan.io</FQDNHost>
+			<FQDNHost>api.shodan.io</FQDNHost>
+			<FQDNHost>beta.shodan.io</FQDNHost>
+			<FQDNHost>blog.shodan.io</FQDNHost>
+			<FQDNHost>*.census.shodan.io</FQDNHost>
+			<FQDNHost>aje.census.shodan.io</FQDNHost>
+			<FQDNHost>atlantic2.census.shodan.io</FQDNHost>
+			<FQDNHost>battery.census.shodan.io</FQDNHost>
+			<FQDNHost>blue.census.shodan.io</FQDNHost>
+			<FQDNHost>blue2.census.shodan.io</FQDNHost>
+			<FQDNHost>board.census.shodan.io</FQDNHost>
+			<FQDNHost>border.census.shodan.io</FQDNHost>
+			<FQDNHost>buffet.census.shodan.io</FQDNHost>
+			<FQDNHost>can.census.shodan.io</FQDNHost>
+			<FQDNHost>dog.census.shodan.io</FQDNHost>
+			<FQDNHost>draft.census.shodan.io</FQDNHost>
+			<FQDNHost>eagle.census.shodan.io</FQDNHost>
+			<FQDNHost>editor.census.shodan.io</FQDNHost>
+			<FQDNHost>einstein.census.shodan.io</FQDNHost>
+			<FQDNHost>elk.census.shodan.io</FQDNHost>
+			<FQDNHost>fish.census.shodan.io</FQDNHost>
+			<FQDNHost>floss.census.shodan.io</FQDNHost>
+			<FQDNHost>green.census.shodan.io</FQDNHost>
+			<FQDNHost>guitar.census.shodan.io</FQDNHost>
+			<FQDNHost>hat.census.shodan.io</FQDNHost>
+			<FQDNHost>kiwi.census.shodan.io</FQDNHost>
+			<FQDNHost>malware-hunter.census.shodan.io</FQDNHost>
+			<FQDNHost>mango.census.shodan.io</FQDNHost>
+			<FQDNHost>mars.census.shodan.io</FQDNHost>
+			<FQDNHost>pack.census.shodan.io</FQDNHost>
+			<FQDNHost>purple.census.shodan.io</FQDNHost>
+			<FQDNHost>red.census.shodan.io</FQDNHost>
+			<FQDNHost>red2.census.shodan.io</FQDNHost>
+			<FQDNHost>red3.census.shodan.io</FQDNHost>
+			<FQDNHost>refrigerator.census.shodan.io</FQDNHost>
+			<FQDNHost>research.census.shodan.io</FQDNHost>
+		</FQDNHostList>
+	</FQDNHostGroup>
+</Configuration>
